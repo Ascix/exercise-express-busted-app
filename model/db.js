@@ -1,4 +1,4 @@
-modules.exports = [
+module.exports = [
     {
         id: 1,
         slug: 'red_ranger',
@@ -9,8 +9,8 @@ modules.exports = [
         id: 2,
         slug: 'black_ranger',
         name: 'Black Ranger',
-        zord: 'Mastodon'
-    }
+        zord: 'Mastodon',
+    },
     {
         id: 3,
         slug: 'pink_ranger',
@@ -19,7 +19,7 @@ modules.exports = [
     },
     {
         id: 4,
-        slug: 'yello_ranger',
+        slug: 'yellow_ranger',
         name: 'Yellow Ranger',
         zord: 'Sabretooth Tiger'
     },
